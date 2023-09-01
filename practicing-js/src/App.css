@@ -1,0 +1,22 @@
+/* Estilizando a tabela */
+table {
+    width: 33%;
+    border-collapse: collapse; /* Mescla as bordas das células */
+    border: 2px solid black; /* Borda da tabela */
+    margin: 20px 0;
+    text-align: center;
+  }
+  
+  /* Estilizando o cabeçalho da tabela */
+th {
+    background-color: #f2f2f2; /* Cor de fundo do cabeçalho */
+    padding: 8px;
+    border: 1px solid black; /* Borda das células do cabeçalho */
+  }
+  
+  /* Estilizando as células da tabela */
+td {
+    padding: 8px;
+    border: 1px solid black; /* Borda das células */
+  }
+  

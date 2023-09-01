@@ -1,0 +1,26 @@
+.modal{
+    background-color: rgba(105, 105, 105, 0.164);
+    position: absolute !important;
+    top: 0;
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+}
+
+.modal-content{
+    text-align: center;
+    margin: 300px auto;
+    background-color: white;
+    width: 33vw;
+    padding: 1rem;
+    border-radius: 14px;
+}
+
+.button{
+    position: relative;
+    left: 240px;
+}
+
+.modal-content p{
+    font-size: 32px;
+}
