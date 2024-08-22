@@ -1,4 +1,6 @@
-# 🌟 Monitoria Arnia
+# 🌟 Monitoria Arnia - React.js
+
+###### _Pssst! English version of this README is available [here](./EN_US.md)._
 
 Olá! Este é o repositório oficial para a turma T4. Como monitora dessa turma, estarei atualizando este repositório com informações úteis e relevantes ao longo do curso.
 
