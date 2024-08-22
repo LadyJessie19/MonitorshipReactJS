@@ -1,4 +1,4 @@
-# 🌟 Arnia Mentorship
+# 🌟 Arnia Mentorship - React.js
 
 Hello! This is the official repository for the T4 class. As a mentor for this class, I will be updating this repository with useful and relevant information throughout the course.
 
